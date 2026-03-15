@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e8963f97e304810b208ea3e6880b8efce8b94c1781077884a05129ec901878c9"
+
+[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
 metafile = true
@@ -9,14 +13,6 @@ metafile = true
 file = "complementary-unbound.pw.toml"
 hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
 metafile = true
-
-[[files]]
-file = "manifest.json"
-hash = "77c595fef63008a58f8d514a54732c26dd2e4ec1b371c0d08f7fbd92296753ca"
-
-[[files]]
-file = "modlist.html"
-hash = "1b7f7a3b6cfceb500c1ad268412bca25e688bc27c592554cd28f28edc4ae2f8a"
 
 [[files]]
 file = "mods/animal-garden-alligator-gar.pw.toml"
