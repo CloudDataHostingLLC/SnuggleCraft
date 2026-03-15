@@ -1,0 +1,13 @@
+name = "More Materials After Netherite"
+filename = "more_materials-3.1.0-neoforge-1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d5ba7918f0c6471c31bd03206fe9459fc78209c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6325820
+project-id = 629674

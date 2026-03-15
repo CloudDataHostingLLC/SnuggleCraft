@@ -1,0 +1,13 @@
+name = "Nebulus Knight Castle"
+filename = "nebulus_knight_castle-1.0.8-neoforge-1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7efed940161aa2c93de94ac57c0f976faf7aae63"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6278981
+project-id = 1202048

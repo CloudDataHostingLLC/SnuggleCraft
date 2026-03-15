@@ -1,0 +1,13 @@
+name = "Whistle Mount"
+filename = "whistlemount-2.1.1-neoforge-1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8d65359a0e16e12f0cd74ec3a574299a3ba0b7c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7545141
+project-id = 1445098

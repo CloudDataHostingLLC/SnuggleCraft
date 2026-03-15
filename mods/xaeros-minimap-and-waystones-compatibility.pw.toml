@@ -1,0 +1,13 @@
+name = "Xaero's Minimap and Waystones Compatibility"
+filename = "xaerowaystonescompatibility-neoforge-1.21-[1-10]-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03c6e11cff63c70dc7135f199a09b8ccdfb347bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7385681
+project-id = 1414507

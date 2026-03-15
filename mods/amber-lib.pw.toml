@@ -1,0 +1,13 @@
+name = "Amber Lib"
+filename = "amber-neoforge-1.21.4-3.0.0+1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4f9d7d69bb82ba7649b3180289af9fa5f1c6c9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6243698
+project-id = 1139910

@@ -1,0 +1,13 @@
+name = "Easy Homes"
+filename = "easy_homes-21.4.5-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a06f993310c68ea2aa763192d5e2e9df31a89d2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6109385
+project-id = 1163866

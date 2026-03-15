@@ -1,12 +1,12 @@
-name = "Snuggle Craft"
+name = "SnuggleCraft"
 author = "SnuggleSMP"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8779a9c60949e16854480f7f01c7acdc7ddcc2a35607969dcb4e1bda5581b92b"
+hash = "078f3d3050617ba9c3da38e4f207e7ffeb17f01cb9e9f6de3934a3dd559afd63"
 
 [versions]
 minecraft = "1.21.4"

@@ -1,0 +1,13 @@
+name = "Overenchanted"
+filename = "overenchanted-1.21.4-0.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d1aaebbcf9e0c5842d9adf62cb4184d9c38dfd5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6354794
+project-id = 1218733

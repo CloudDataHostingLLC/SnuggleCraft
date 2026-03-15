@@ -1,0 +1,13 @@
+name = "Constructed Structures"
+filename = "constructed_structures-1.0.0-neoforge-1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39af2169587660297fad77c25f03b2bebe33ef87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6416342
+project-id = 1240683

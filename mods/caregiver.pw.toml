@@ -1,13 +1,8 @@
-name = "Caregiver"
-filename = "neoforge_1_21_4_cg_0033_06052025.jar"
+name = "caregiver"
+filename = "neoforge_1_21_4_nctsmuk_1111_04062025_rr.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Br9SDKbW/versions/EM3ZCbas/neoforge_1_21_4_cg_0033_06052025.jar"
-hash-format = "sha512"
-hash = "357f930418baa33cac5e2820e5aba3d7f867c8078a805a29f0a370cac236f549905dde2a0fc10ea7935f115c75b93195f29ca429b065bf4d7c5a453decb3f809"
-
-[update]
-[update.modrinth]
-mod-id = "Br9SDKbW"
-version = "EM3ZCbas"
+url = "https://mod.snugglesmp.com/neoforge_1_21_4_nctsmuk_1111_04062025_rr.jar"
+hash-format = "sha256"
+hash = "440e98fe198e16c09f0c710b33a77e5c59cba9f8d15e39f8d8765a40ad90125f"

@@ -1,0 +1,13 @@
+name = "Bonded"
+filename = "bonded-neoforge-1.21.4-1.2.1+1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "662602358852febafb77728a0d5aa1cab377c43d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6078530
+project-id = 1144849
