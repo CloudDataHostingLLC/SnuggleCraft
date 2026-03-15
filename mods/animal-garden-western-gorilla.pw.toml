@@ -1,0 +1,13 @@
+name = "Animal Garden - Western Gorilla"
+filename = "animalgarden-westerngorilla-1.0.0-neoforge-1.21.4-21.4.156.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a4aac21bb2d0f76409a98ed9e6a74e1625d709f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7284195
+project-id = 1396258

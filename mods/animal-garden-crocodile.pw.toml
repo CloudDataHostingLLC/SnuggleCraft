@@ -1,0 +1,13 @@
+name = "Animal Garden - Crocodile"
+filename = "animalgarden-crocodile-1.0.0-neoforge-1.21.4-21.4.156.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec9618353721df5ee844d53945cd74f89090255f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7646653
+project-id = 1460775

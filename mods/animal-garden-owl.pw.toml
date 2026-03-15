@@ -1,0 +1,13 @@
+name = "Animal Garden - Owl"
+filename = "animalgarden_owl-1.21.4-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93a84646a534f1288e206ce5ce1c71001f37331f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5968002
+project-id = 1153275

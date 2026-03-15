@@ -1,0 +1,13 @@
+name = "Animal Garden - Snow Leopard"
+filename = "animalgarden-snowleopard-1.0.0-neoforge-1.21.4-21.4.156.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6df77ddd853d04fbacd5eb1c7fbaf9cbaa7fd0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7709632
+project-id = 1477415

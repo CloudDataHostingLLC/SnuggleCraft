@@ -1,0 +1,13 @@
+name = "Just Enough Resources (JER)"
+filename = "JustEnoughResources-NeoForge-1.21.4-1.8.1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ea3dbcbc94adfdc2b0e86a6f60a9712cab724cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6651639
+project-id = 240630

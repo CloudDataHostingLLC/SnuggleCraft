@@ -1,0 +1,13 @@
+name = "Animal Garden - Prairie Dog"
+filename = "animalgarden-prairiedog-1.0.1-neoforge-1.21.5-21.5.96.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97c8faec2df1d9d9bf3e1054465a8bc333211e01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7525138
+project-id = 1419826

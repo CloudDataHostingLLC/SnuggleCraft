@@ -1,0 +1,13 @@
+name = "Animal Garden - Alligator Gar"
+filename = "animalgarden-alligatorgar-1.0.0-neoforge-1.21.4-21.4.155.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "130c9b3d25a983e345d581755076998939362bbd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7225759
+project-id = 1385403

@@ -1,0 +1,13 @@
+name = "Animal Garden - Porcupine"
+filename = "animalgarden_porcupine-1.0.2-neoforge-1.21.4-21.4.155.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48ac2c23b18b1fb638fcfe0dbbc39fa39150f063"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7141706
+project-id = 1171145

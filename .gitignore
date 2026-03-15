@@ -1,0 +1,28 @@
+# Minecraft runtime files
+logs/
+crash-reports/
+saves/
+world/
+run/
+downloads/
+server.properties
+usercache.json
+usernamecache.json
+*.log
+
+# Mod files (Packwiz downloads these automatically)
+*.jar
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Java temp files
+*.tmp
+*.bak
+*.zip

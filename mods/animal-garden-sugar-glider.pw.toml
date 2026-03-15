@@ -1,0 +1,13 @@
+name = "Animal Garden - Sugar Glider"
+filename = "animalgarden-sugargilder-1.0.0-neoforge-1.21.4-21.4.155.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fcf419a6808abde2a35768dcda4972ab42887ab4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7203925
+project-id = 1381696

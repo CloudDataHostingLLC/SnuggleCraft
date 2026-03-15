@@ -1,0 +1,13 @@
+name = "Animal Garden - Mouse"
+filename = "animalgarden-mouse-1.0.3-neoforge-1.21.4-21.4.155.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a2c5016c5e85529c2560fea866ad32d8a2438df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7141958
+project-id = 1198304

@@ -1,0 +1,13 @@
+name = "Animal Garden - Manatee"
+filename = "animalgarden-manatee-1.0.0-neoforge-1.21.4-21.4.155.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3162d2518bfb79251c93f069342eb820abffe8ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7141201
+project-id = 1354749

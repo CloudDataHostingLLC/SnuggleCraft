@@ -1,0 +1,13 @@
+name = "Animal Garden - Spotted Hyena"
+filename = "animalgarden-spottedhyena-1.0.0-neoforge-1.21.4-21.4.155.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a9fc300eb7a7b0d1793df699b7f1df3a8f86df9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7121493
+project-id = 1367094

@@ -1,0 +1,13 @@
+name = "Comforts"
+filename = "comforts-neoforge-10.0.0+1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9b617739d33fc4da479a2e1745c1bf5e054dfd51"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6582625
+project-id = 276951

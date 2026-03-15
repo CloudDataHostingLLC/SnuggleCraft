@@ -1,0 +1,13 @@
+name = "Clumps"
+filename = "Clumps-neoforge-1.21.4-22.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "adb1292d71bb358b074ee9116be98939e1786fb0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6014988
+project-id = 256717

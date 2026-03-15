@@ -1,0 +1,13 @@
+name = "Animal Garden - Hippopotamus"
+filename = "animalgarden-hippopotamus-1.0.0-neoforge-1.21.4-21.4.156.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "666521149b70ab6aade3ffdbaf057d1b774ed2f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7572872
+project-id = 1453322

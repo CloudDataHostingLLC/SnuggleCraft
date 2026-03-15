@@ -1,0 +1,13 @@
+name = "Animal Garden - Fennec Fox"
+filename = "animalgarden-fennecfox-1.0.1-neoforge-1.21.4-21.4.155.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2954b103879ebabf7d37e17c8a4a5a7941deb9f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7283103
+project-id = 1389805

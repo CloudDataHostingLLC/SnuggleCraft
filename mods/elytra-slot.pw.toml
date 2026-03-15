@@ -1,0 +1,13 @@
+name = "Elytra Slot"
+filename = "elytraslot-neoforge-10.0.1+1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a8a2b74ab76591738ce3c9a23b1d99a0f44b55a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6801976
+project-id = 317716

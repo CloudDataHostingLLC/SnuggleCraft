@@ -1,0 +1,13 @@
+name = "Animal Garden - Lion"
+filename = "animalgarden-lion-1.0.0-neoforge-1.21.4-21.4.156.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57d386353eabf99c020861ef969a11a4b58aaf07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7525097
+project-id = 1443995

@@ -1,0 +1,13 @@
+name = "Plushy+ Returns"
+filename = "neoforge_1_21_4_pplus_1311_23022026_rr.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "453237ec511381fc1ee1bc96473398e3a310438b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7710351
+project-id = 1412993

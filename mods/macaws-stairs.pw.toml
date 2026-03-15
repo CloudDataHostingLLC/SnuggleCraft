@@ -1,0 +1,13 @@
+name = "Macaw's Stairs"
+filename = "mcw-mcwstairs-1.0.2-mc1.21.4neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ba0415c2d48398ce8a113d24b64fdc94c7eeb96"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7317486
+project-id = 1119394

@@ -1,0 +1,13 @@
+name = "Animal Garden - Harp Seal"
+filename = "animalgarden-harpseal-1.0.0-neoforge-1.21.4-21.4.156.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c230f83a21a124674bf6c1fcb30db95a6f2fc378"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7681339
+project-id = 1472401
